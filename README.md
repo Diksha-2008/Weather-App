@@ -19,6 +19,13 @@ This is a simple weather web application that displays the **temperature**, **wi
 - JavaScript  
 - Weather API
 
+
+## 📷Screenshot
+If you like the UI, please star ⭐ the repository.
+
+![weather_app](https://github.com/user-attachments/assets/528209ca-038c-41d3-b069-0031b52531fb)
+
+
 ## 📦 Getting Started
 
 1. Clone the repository:
